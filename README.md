@@ -18,7 +18,7 @@ This repository contains the following:
 <h2>Getting Started</h2>
 <p>To get started with this repository, clone it to your local machine using:</p>
 <pre>
-<code>git clone https://github.com/yourusername/repositoryname.git</code>
+<code>git clone https://github.com/SajibSaha3/Data_structure_python.git
 </pre>
 <h2>Usage</h2>
 <p>Navigate to the folder of the data structure you want to explore. Review the problem statements and their solutions.</p>
